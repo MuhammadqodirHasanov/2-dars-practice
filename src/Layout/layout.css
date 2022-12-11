@@ -1,0 +1,9 @@
+.main-bar {
+    width: 100%;
+    display: inline-grid;
+    grid-template-columns: 1fr 4fr;
+}
+
+.site-bar, .all {
+    border: 1px solid #000;
+}
